@@ -7,3 +7,5 @@ Introdução a NLP
 NLP e ML
 <br>
 Tokenização, segmentação e lematização
+<br>
+Análise de sentimento com NLTK
